@@ -128,8 +128,7 @@ body{
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
-    font-size: 8px;
-}
+  }
 
 .lista__link a{
     text-decoration: none;
@@ -191,6 +190,13 @@ body{
 
     .rodape__lista{
         display: block;
+    }
 
+    .rodape__lista{
+        font-size: 10px;
+    }
+
+    .rodape__texto{
+        font-size: 10px;
     }
 }
